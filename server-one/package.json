@@ -1,0 +1,23 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "SSSF Course",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.metropolia.fi/sssf22/week1.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "ILE",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.3"
+  }
+}
